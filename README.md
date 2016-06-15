@@ -11,6 +11,8 @@ Useful function for documenting game sketches with screenshots.
 Copy & paste the serial output "begin" thru "end" lines into a file (example data.txt)
 
 $ uudecode data.txt
+
 $ ls -l screen0.bmp
+
 -rw-r--r--  1 neilp  503  1086 Jun 15 00:10 screen0.bmp
 
