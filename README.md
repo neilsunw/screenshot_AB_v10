@@ -14,5 +14,5 @@ $ uudecode data.txt
 
 $ ls -l screen0.bmp
 
--rw-r--r--  1 neilp  503  1086 Jun 15 00:10 screen0.bmp
+-rw-r--r--  1 neilp  501  1086 Jun 15 00:10 screen0.bmp
 
